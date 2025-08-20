@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Karan Sharma  
 
-<!--
-**karan-sharma-aiml/karan-sharma-aiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AIML) Student at CGC Jhanjeri  
+💻 Python & Machine Learning Enthusiast  
+🚀 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+## 🔹 About Me  
+- 🌱 Currently learning: *DSA in C++ | Machine Learning with Python*  
+- 💡 Interests: *AI/ML, Web Development, Hackathons, Open Source*  
+- 📫 Reach me: [karanku1882@gmail.com](mailto:karanku1882@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karan-sharma-167957271)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Tech Stack  
+- *Languages:* Python, C++, JavaScript  
+- *Frameworks:* Flask, TensorFlow, Scikit-learn  
+- *Tools:* Git, GitHub, VS Code, Linux  
+- *Databases:* MySQL, MongoDB  
+
+## 🔹 Projects (Pinned)  
+- 🔧 [CommunityFix](https://github.com/karan-sharma-aiml/communityfix) — print demo for hello world first program  
+- 🎥 [Vidsnapal-AI](https://github.com/karan-sharma-aiml/vidsnapal-ai) — AI-powered short video generator  
+- 📈 [Stock-Predictor](https://github.com/karan-sharma-aiml/stock-predictor) — ML-based price predictor  
+
+## 🔹 GitHub Stats  
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact&theme=tokyonight)  
+
+---
+
+⚡ "I turn coffee ☕ into code 💻, and ideas into reality 🚀"
