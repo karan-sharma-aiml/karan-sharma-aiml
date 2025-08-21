@@ -1,6 +1,18 @@
-<!-- 🌟 Profile Banner (optional, jab ready ho tab lagana) -->
+## 🚀 Tech Stack  
+
 <p align="center">
-  <img src="profile-banner.png" alt="Banner" />
+  <a href="https://github.com/karan-sharma-aiml">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://github.com/karan-sharma-aiml">
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  </a>
+  <a href="https://github.com/karan-sharma-aiml">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/karan-sharma-aiml">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  </a>
 </p>
 
 # 👋 Hi, I'm Karan Sharma  
