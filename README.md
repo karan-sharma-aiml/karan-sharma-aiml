@@ -1,6 +1,6 @@
 <!-- 🌟 Profile Banner (optional, jab ready ho tab lagana) -->
 <p align="center">
-  <img src="profile-banner.png" alt="Banner" />
+  <img src="profile-banner.jpg" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm Karan Sharma  
