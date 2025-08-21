@@ -1,6 +1,6 @@
-<!-- 🌟 Profile Banner (optional, jab ready ho tab lagana) -->
+<!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="profile-banner.jpg" alt="Banner" width="100%" />
+  <img src="banner.jpg" alt="Karan Sharma | AI & ML Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Karan Sharma</h1>
