@@ -45,7 +45,7 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
 </p>
   
-## 📌 Projects  
+## 📌 Projects   
 
 - 📈 **[Stock Predictor](https://github.com/karan-sharma-aiml/stock-predictor)**  
   ML-based price predictor  
