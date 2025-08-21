@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Karan Sharma  
 
+![Profile Views](https://komarev.com/ghpvc/?username=karan-sharma-aiml&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/karan-sharma-aiml?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/karan-sharma-aiml?label=Stars&style=social)  
+
 🎓 B.Tech CSE (AIML) Student at CGC Jhanjeri  
 💻 Python & Machine Learning Enthusiast  
-🚀 Aspiring Software Engineer  
+🚀 Aspiring Software Engineer 
 
 ## 🔹 About Me  
 - 🌱 Currently learning: *DSA in C++ | Machine Learning with Python*  
