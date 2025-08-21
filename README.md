@@ -1,4 +1,19 @@
-{"recipient_name":"functions.generate_image","parameters":{"prompt":"A dark futuristic banner with black base and glowing blue and purple accents, featuring AI neural network nodes, circuit patterns, and digital waves. Text in bold modern font: 'Karan Sharma | AI & ML Enthusiast'. Style professional and eye-catching, perfect for GitHub profile banner.","caption":"Dark futuristic GitHub banner for Karan Sharma with AI neural network and circuit design","file_name":"karan_sharma_ai_ml_banner.png","input_image_urls":[],"input_ids":[]}}
+## 🚀 Tech Stack  
+
+<p align="center">
+  <a href="https://github.com/karan-sharma-aiml">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://github.com/karan-sharma-aiml">
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  </a>
+  <a href="https://github.com/karan-sharma-aiml">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/karan-sharma-aiml">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  </a>
+</p>
 🎓 B.Tech CSE (AIML) Student at CGC Jhanjeri  
 💻 Python & Machine Learning Enthusiast  
 🚀 Aspiring Software Engineer 
