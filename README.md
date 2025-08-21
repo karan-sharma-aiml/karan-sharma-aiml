@@ -38,7 +38,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
+  
 ## 📌 Projects  
 
 - 📈 **[Stock Predictor](https://github.com/karan-sharma-aiml/stock-predictor)**  
