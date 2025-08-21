@@ -1,28 +1,4 @@
-<!-- Banner + Badges -->
-<p align="center">
-  <img src="profile-banner.png" alt="Banner" />
-</p>
-
-<p align="center">
-  ... [badges yaha] ...
-</p>
-
-<!-- Intro text -->
-<h2 align="center">Hi 👋, I'm Karan Sharma</h2>
-<p align="center">A passionate AIML Student | Python Developer | Hackathon Enthusiast 🚀</p>
-
-<!-- About Me -->
-## 🚀 About Me
-- 🔭 I’m currently working on *Machine Learning Projects*
-- 🌱 I’m learning *DSA + Web Dev + AIML*
-- 💬 Ask me about *Python, AI, ML*
-- 📫 Reach me at *karanku1882@gmail.com*
-# 👋 Hi, I'm Karan Sharma  
-
-![Profile Views](https://komarev.com/ghpvc/?username=karan-sharma-aiml&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/karan-sharma-aiml?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/karan-sharma-aiml?label=Stars&style=social)  
-
+{"recipient_name":"functions.generate_image","parameters":{"prompt":"A dark futuristic banner with black base and glowing blue and purple accents, featuring AI neural network nodes, circuit patterns, and digital waves. Text in bold modern font: 'Karan Sharma | AI & ML Enthusiast'. Style professional and eye-catching, perfect for GitHub profile banner.","caption":"Dark futuristic GitHub banner for Karan Sharma with AI neural network and circuit design","file_name":"karan_sharma_ai_ml_banner.png","input_image_urls":[],"input_ids":[]}}Yeh raha aapke specifications ke hisaab se ek dark futuristic banner image, jisme black base aur glowing blue-purple accents hain, AI neural network nodes, circuit pattern aur digital waves bhi shamil hain. Text modern bold font me hai: "Karan Sharma | AI & ML Enthusiast"
 🎓 B.Tech CSE (AIML) Student at CGC Jhanjeri  
 💻 Python & Machine Learning Enthusiast  
 🚀 Aspiring Software Engineer 
