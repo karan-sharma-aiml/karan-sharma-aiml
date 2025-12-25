@@ -39,24 +39,36 @@
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
   
-## 📌 Projects   
 
-- 📈 **[Stock Predictor](https://github.com/karan-sharma-aiml/stock-predictor)**  
-  ML-based price predictor  
-  Tech: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+## 📌 Projects
 
-- 🤖 **[Vidsnapal – AI Reel Generator](https://github.com/karan-sharma-aiml/vidsnapal)**  
-  AI-powered short video (TikTok/Reel) generator  
-  Tech: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) 
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+* 🧠 **[FUTURE_ML_01 – Machine Learning Forecasting Project](https://github.com/karan-sharma-aiml/FUTURE_ML_01)**
+  Hands-on ML project focused on **time-series forecasting & real-world data insights** using Python and Streamlit.
+  **Tech:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square\&logo=ai\&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
 
-- 🏛 **[CommunityFix](https://github.com/karan-sharma-aiml/communityfix)**  
-  Civic issue reporting + ticket management system  
-  Tech: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+---
+
+* 📊 **[FUTURE_ML_02 – Customer Churn Prediction System](https://github.com/karan-sharma-aiml/FUTURE_ML_02)**
+  Enterprise-style ML system for **customer churn prediction** with API deployment and interactive dashboards.
+  **Tech:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+  ![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=flat-square\&logo=ai\&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square\&logo=ai\&logoColor=white)
+
+---
+
+* 🤖 **[FUTURE_ML_003 – AI Customer Support Chatbot](https://github.com/karan-sharma-aiml/FUTURE_ML_003)**
+  Smart AI-powered **customer support chatbot** built using ML, FastAPI, Streamlit, and MongoDB.
+  **Tech:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
 ---
 
