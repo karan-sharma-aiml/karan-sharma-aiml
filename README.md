@@ -75,15 +75,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Karan Sharma GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true&theme=dark"
+    referrerpolicy="no-referrer"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact&theme=dark"
+    referrerpolicy="no-referrer"
   />
 </p>
 
