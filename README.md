@@ -73,9 +73,13 @@
 ---
 ## 📊 GitHub Stats
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact" />
+</p>
 
 ---
 
