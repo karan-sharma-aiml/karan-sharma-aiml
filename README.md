@@ -71,29 +71,31 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
 ---
-
 ## 📈 GitHub Stats  
 
-<p align="center">  
-  <img  
-    src="https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"  
-    alt="Karan's GitHub stats"  
-  />  
-</p>  
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
+    alt="Karan Sharma GitHub Stats"
+    height="170"
+  />
+</p>
 
-<p align="center">  
-  <img  
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"  
-    alt="Top Languages"  
-  />  
-</p>  
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
+    alt="Top Programming Languages"
+    height="170"
+  />
+</p>
 
-<p align="center">  
-  <img  
-    src="https://streak-stats.demolab.com?user=karan-sharma-aiml&theme=tokyonight&hide_border=true"  
-    alt="GitHub Streak"  
-  />  
-</p>  
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=karan-sharma-aiml&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    height="170"
+  />
+</p>
 
 ---
 
