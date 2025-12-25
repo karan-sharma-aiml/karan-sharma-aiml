@@ -71,15 +71,14 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
 ---
+
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true" />
-</p>
+![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact)
+
 
 ---
 
