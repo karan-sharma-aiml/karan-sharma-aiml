@@ -75,9 +75,12 @@
 
 ## 📊 GitHub Stats
 
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
+</p>
 
 
 ---
@@ -91,8 +94,9 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karan-sharma-aiml&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karan-sharma-aiml&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
 
 ---
 
