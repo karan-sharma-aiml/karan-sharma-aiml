@@ -1,152 +1,216 @@
-```markdown
 <div align="center">
 
 # Karan Sharma
 
-### Artificial Intelligence & Machine Learning Engineer
+### Artificial Intelligence Engineer • Machine Learning • Backend Engineering
 
-Building production-ready AI applications, intelligent backend systems, and scalable machine learning solutions.
+Building production-ready AI systems, scalable backend applications, and intelligent software powered by Machine Learning and Large Language Models.
 
-<p>
-  <a href="https://github.com/karan-sharma-aiml">
-    <img src="https://komarev.com/ghpvc/?username=karan-sharma-aiml&label=Profile%20Views&color=0A66C2&style=flat-square"/>
-  </a>
-  <a href="https://github.com/karan-sharma-aiml?tab=followers">
-    <img src="https://img.shields.io/github/followers/karan-sharma-aiml?style=flat-square"/>
-  </a>
+<p align="center">
+<a href="https://github.com/karan-sharma-aiml">
+<img src="https://komarev.com/ghpvc/?username=karan-sharma-aiml&label=Profile%20Views&color=0A66C2&style=flat-square"/>
+</a>
+
+<a href="https://github.com/karan-sharma-aiml?tab=followers">
+<img src="https://img.shields.io/github/followers/karan-sharma-aiml?style=flat-square"/>
+</a>
+
+<a href="https://github.com/karan-sharma-aiml">
+<img src="https://img.shields.io/github/stars/karan-sharma-aiml?affiliations=OWNER&style=flat-square"/>
+</a>
 </p>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech (AI & Machine Learning)
+🎓 B.Tech in **Artificial Intelligence & Machine Learning**
 
-🏢 AI Intern @ **Artificial Limbs Manufacturing Corporation of India (ALIMCO)** — Government of India PSU
+🏢 **AI Intern** at **Artificial Limbs Manufacturing Corporation of India (ALIMCO)** — Government of India Public Sector Undertaking (PSU)
 
-💡 Passionate about **Machine Learning, LLMs, RAG, FastAPI, Backend Engineering, and Production AI Systems.**
-
-🚀 I enjoy building software that solves real-world problems with clean architecture and scalable design.
+💡 Passionate about building **production-ready AI applications**, **LLM-powered systems**, **Retrieval-Augmented Generation (RAG)** platforms, and scalable backend services using modern software engineering practices.
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-## 🤖 ALIMCO RAG Chatbot
-**Enterprise Retrieval-Augmented Generation Platform**
+<table>
+<tr>
+<td width="50%">
 
-Built during my internship at **ALIMCO (Government of India PSU)** using LangChain, ChromaDB, FastAPI, Gemini, Ollama, and PostgreSQL.
+### 🤖 ALIMCO RAG Chatbot
 
-**Tech:** Python • FastAPI • LangChain • ChromaDB • PostgreSQL • Docker
+Enterprise Retrieval-Augmented Generation platform developed during my internship at **ALIMCO (Government of India PSU)**.
+
+**Stack**
+
+Python • FastAPI • LangChain • ChromaDB • Gemini • Ollama • PostgreSQL • Docker
+
+**Repository**
 
 🔗 https://github.com/karan-sharma-aiml/ALIMCO-RAG-Chatbot
 
----
+</td>
 
-## 📊 Credit Risk Prediction System
+<td width="50%">
 
-Production-grade machine learning platform for credit risk prediction and customer segmentation.
+### 📊 Credit Risk Prediction
 
-**Tech:** Python • Scikit-Learn • FastAPI • PostgreSQL • Streamlit • Docker
+Production-grade Machine Learning platform for credit risk prediction and customer segmentation.
+
+**Stack**
+
+Python • Scikit-Learn • FastAPI • PostgreSQL • Streamlit • Docker
+
+**Repository**
 
 🔗 https://github.com/karan-sharma-aiml/credit-risk-prediction-system
 
----
+</td>
+</tr>
 
-## 🌍 Multilingual AI Response Quality Evaluator
+<tr>
+<td width="50%">
 
-LLM evaluation platform for multilingual AI response benchmarking and analytics.
+### 🌍 Multilingual AI Evaluator
 
-**Tech:** Python • Transformers • NLP • FastAPI • Docker
+LLM benchmarking platform for multilingual response quality evaluation and analytics.
+
+**Stack**
+
+Python • NLP • Transformers • FastAPI • Docker
+
+**Repository**
 
 🔗 https://github.com/karan-sharma-aiml/multilingual-ai-response-quality-evaluator
 
----
+</td>
 
-## 💰 PayFlow
+<td width="50%">
+
+### 💰 PayFlow
 
 AI-powered Personal Finance & Expense Intelligence Platform.
 
-**Tech:** Python • FastAPI • PostgreSQL • Docker
+**Stack**
+
+Python • FastAPI • PostgreSQL • Docker
+
+**Repository**
 
 🔗 https://github.com/karan-sharma-aiml/PayFlow---Personal-Finance-Expense-Intelligence-Platform
 
----
+</td>
+</tr>
 
-## 🎓 EduPilot
+<tr>
+<td colspan="2">
 
-AI-powered personalized learning platform.
+### 🎓 EduPilot
 
-**Tech:** Python • FastAPI • Machine Learning
+AI-powered personalized learning platform focused on intelligent education and adaptive learning experiences.
+
+**Stack**
+
+Python • FastAPI • Machine Learning
+
+**Repository**
 
 🔗 https://github.com/karan-sharma-aiml/edupilot
 
----
+</td>
+</tr>
 
-# Tech Stack
-
-**Languages**
-
-`Python` • `Java` • `C++` • `SQL`
-
-**AI & Machine Learning**
-
-`Scikit-Learn` • `TensorFlow` • `PyTorch` • `LangChain` • `Transformers`
-
-**Backend**
-
-`FastAPI` • `REST APIs` • `PostgreSQL`
-
-**Tools**
-
-`Docker` • `Git` • `GitHub` • `Linux` • `Postman`
+</table>
 
 ---
 
-# GitHub Analytics
+# 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true&hide_border=true"/>
+### Languages
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql"/>
 </p>
 
-<p align="center">
+### AI / Machine Learning
 
-<img src="https://streak-stats.demolab.com?user=karan-sharma-aiml"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,mysql,docker"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode"/>
+</p>
+
+</div>
+
 ---
 
-# Currently Working On
+# 📈 GitHub Analytics
 
-- Enterprise AI Applications
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning Systems
-- Backend Engineering
-- FastAPI
-- Production AI Projects
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karan-sharma-aiml&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-sharma-aiml&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=karan-sharma-aiml&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
-# Connect With Me
+# 🚀 Currently Working On
 
-- GitHub: https://github.com/karan-sharma-aiml
-- LinkedIn: *(Add your LinkedIn URL)*
-- Email: *(Add your professional email)*
+- 🤖 Enterprise AI Applications
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI & Backend Engineering
+- 📊 Machine Learning Systems
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/karan-sharma-aiml">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/karan-sharma-167957271/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:karanku@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Building AI systems that create real-world impact."
+### ⭐ Building AI that solves real-world problems.
 
-⭐ Thanks for visiting my profile!
+*Thanks for visiting my profile.*
 
 </div>
-```
